@@ -1,6 +1,4 @@
-# When to Use What
-
-## Use Django when:
+# Use Django when:
 
 You are building a complete website or large business application.
 
